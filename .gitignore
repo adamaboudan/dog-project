@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+dogImages/
+lfw/
+saved_models/
+.ipynb_checkpoints/
+bottleneck_features/
+
 # Distribution / packaging
 .Python
 env/
